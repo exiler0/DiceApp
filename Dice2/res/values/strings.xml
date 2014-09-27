@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Dice2</string>
+    <string name="hello_world">Shake to Activate!</string>
+    <string name="menu_settings">Made by: Arpith and Nagabharan</string>
+    <string name="title_activity_main">PES_Dice</string>
+
+</resources>
